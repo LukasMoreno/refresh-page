@@ -8,9 +8,7 @@ count = 0
 pyautogui.FAILSAFE = False
 time.sleep(10)
 
-
 while True:
-
     if count == n:
         pyautogui.hotkey ('ctrl','f5')
         count = 0
