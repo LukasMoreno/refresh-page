@@ -1,8 +1,8 @@
 import pyautogui
 import time
 
-numero_de_paginas = 2
-n = numero_de_paginas -1
+number_of_pages = 2
+n = number_of_pages -1
 count = 0
 
 pyautogui.FAILSAFE = False
